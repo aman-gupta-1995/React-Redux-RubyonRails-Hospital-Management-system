@@ -2,7 +2,7 @@
 <doc xml:lang="en">
     <assembly>
         <name>Microsoft.ApplicationInsights</name>
-    </assembly> 
+    </assembly>  
     <members> 
         <member name="T:Microsoft.ApplicationInsights.Extensibility.Implementation.External.AjaxCallData">
             <summary> 
