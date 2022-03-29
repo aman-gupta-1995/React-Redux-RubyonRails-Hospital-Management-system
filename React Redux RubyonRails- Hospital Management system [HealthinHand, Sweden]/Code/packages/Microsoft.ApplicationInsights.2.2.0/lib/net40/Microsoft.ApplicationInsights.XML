@@ -1,7 +1,7 @@
 <?xml version="1.0"?> 
 <doc xml:lang="en">
     <assembly>
-        <name>Microsoft.ApplicationInsights</name>  
+        <name>Microsoft.ApplicationInsights</name>   
     </assembly>  
     <members> 
         <member name="T:Microsoft.ApplicationInsights.Extensibility.Implementation.External.AjaxCallData">
