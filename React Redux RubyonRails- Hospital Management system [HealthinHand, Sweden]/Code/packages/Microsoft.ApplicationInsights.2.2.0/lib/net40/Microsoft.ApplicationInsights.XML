@@ -7,7 +7,7 @@
         <member name="T:Microsoft.ApplicationInsights.Extensibility.Implementation.External.AjaxCallData">
             <summary> 
             Partial class to add the EventData attribute and any additional customizations to the generated type. 
-            </summary> 
+            </summary>  
         </member>   
         <member name="T:Microsoft.ApplicationInsights.Extensibility.Implementation.External.AvailabilityData">
             <summary>
