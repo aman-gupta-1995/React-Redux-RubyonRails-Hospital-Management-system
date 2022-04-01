@@ -91,7 +91,7 @@ begin
 		set @status = 1
 	end
 	
-	else
+	else 
 	begin
 		set @status = 0
 	end
