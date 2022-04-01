@@ -24,7 +24,7 @@ drop table Department
 --Type: 2 -- Doctor
 --Type: 3 -- Admin
 
---Status of Doctor
+--Status of Doctor 
 --  1 -- Present
 --  0 -- Left
 
