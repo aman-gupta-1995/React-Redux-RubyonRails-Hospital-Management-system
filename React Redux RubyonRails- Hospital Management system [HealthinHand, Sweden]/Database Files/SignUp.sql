@@ -26,7 +26,7 @@ create procedure Login
 @email varchar(30),
 @password varchar(20),
 @status int output,
-@ID int output,
+@ID int output, 
 @type int output
 
 as
