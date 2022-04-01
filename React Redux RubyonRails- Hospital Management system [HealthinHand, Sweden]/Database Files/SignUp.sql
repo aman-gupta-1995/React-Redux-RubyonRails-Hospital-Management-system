@@ -30,7 +30,7 @@ create procedure Login
 @type int output
 
 as
-begin
+begin 
 	if exists(select * from LoginTable where email=@email)
 	BEGIN
 		if @password = (select password from LoginTable where email=@email)
