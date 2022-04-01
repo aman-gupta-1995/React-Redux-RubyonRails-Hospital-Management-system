@@ -32,7 +32,7 @@ drop table Department
 --Paid
 --Unpaid
 
---Status of Appointment
+--Status of Appointment 
 --1-- Approved
 --2-- Pending
 --3-- Completed
