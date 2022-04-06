@@ -7,7 +7,7 @@
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat&label=Contributions&colorA=red&colorB=black	)](#)
  
  
- 
+  
 A fully featured Clinic Management System having a well designed Database Schema made as a final project for the course "Database Systems CS203" during my 4th Semester at [National University of Computer and Emerging Sciences](http://nu.edu.pk/). Its based on the 3 Tier Architecture.
 
 ## Technologies Used:
