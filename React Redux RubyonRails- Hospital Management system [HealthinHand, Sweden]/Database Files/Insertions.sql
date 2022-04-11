@@ -9,7 +9,7 @@ delete from OtherStaff
 delete from LoginTable 
 */    
  
-USE DBProject
+USE DBProject 
 GO
 
 
