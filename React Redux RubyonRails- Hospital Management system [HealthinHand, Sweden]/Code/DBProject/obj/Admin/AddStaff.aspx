@@ -13,7 +13,7 @@
  
     html  
     {
-      background-image:url("/assets/staff9.jpg");   
+      background-image:url("/assets/staff9.jpg");    
       background-size: cover;
       background-position: 0 -90px;
       background-attachment: fixed;
