@@ -8,7 +8,7 @@ delete from Department
 delete from OtherStaff 
 delete from LoginTable 
 */   
-
+ 
 USE DBProject
 GO
 
