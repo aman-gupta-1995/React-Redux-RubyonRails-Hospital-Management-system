@@ -6,7 +6,7 @@ delete from Doctor
 delete from Patient 
 delete from Department 
 delete from OtherStaff 
-delete from LoginTable
+delete from LoginTable 
 */ 
 
 USE DBProject
