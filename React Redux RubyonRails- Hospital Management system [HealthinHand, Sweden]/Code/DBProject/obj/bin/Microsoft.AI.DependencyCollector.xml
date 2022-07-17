@@ -2,7 +2,7 @@
 <doc xml:lang="en">
     <assembly>
         <name>Microsoft.AI.DependencyCollector</name>
-    </assembly> 
+    </assembly>  
     <members>
         <member name="T:Microsoft.ApplicationInsights.DependencyCollector.HttpDependenciesParsingTelemetryInitializer">
             <summary>
