@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------  
  
-namespace DBProject {
+namespace DBProject { 
      
     
     public partial class SignUp {
