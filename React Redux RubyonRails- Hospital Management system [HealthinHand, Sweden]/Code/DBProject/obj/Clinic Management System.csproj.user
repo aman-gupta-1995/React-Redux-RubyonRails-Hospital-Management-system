@@ -7,7 +7,7 @@
     <IISExpressSSLPort />  
     <IISExpressAnonymousAuthentication /> 
     <IISExpressWindowsAuthentication /> 
-    <IISExpressUseClassicPipelineMode />
+    <IISExpressUseClassicPipelineMode /> 
     <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <ProjectExtensions>
