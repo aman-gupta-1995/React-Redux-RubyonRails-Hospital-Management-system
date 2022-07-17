@@ -99,7 +99,7 @@ namespace DBProject
 
 
             //status == 0 failure
-            if (status == 0)
+            if (status == 0) 
             {
                 Response.Write("<script>alert('Email already exists. Please choose a different one.');</script>");
             }
