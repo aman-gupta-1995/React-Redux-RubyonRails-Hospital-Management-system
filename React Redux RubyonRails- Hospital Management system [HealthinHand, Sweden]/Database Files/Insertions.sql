@@ -29,7 +29,7 @@ insert into department values(5 , 'Neurology', 'A medical speciality dealing wit
 INSERT INTO LoginTable(Email, Password, Type) VALUES('farhan@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('kashan@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('hassaan@gmail.com', 'abc',2)
-INSERT INTO LoginTable(Email, Password, Type) VALUES('haris@gmail.com', 'abc', 2)
+INSERT INTO LoginTable(Email, Password, Type) VALUES('haris@gmail.com', 'abc', 2) 
 INSERT INTO LoginTable(Email, Password, Type) VALUES('alvi@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('talha@gmail.com', 'abc', 2)
 INSERT INTO LoginTable(Email, Password, Type) VALUES('shariq@gmail.com', 'abc', 2)
