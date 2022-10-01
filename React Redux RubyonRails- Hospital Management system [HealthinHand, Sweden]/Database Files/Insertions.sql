@@ -4,7 +4,7 @@
 delete from Appointment      
 delete from Doctor         
 delete from Patient                  
-delete from Department         
+delete from Department          
 delete from OtherStaff  
 delete from LoginTable 
 */    
