@@ -87,7 +87,7 @@ insert into OtherStaff values ('Kaleem', '03227561002','Iqbal Town, Lhr', 'Guard
 insert into OtherStaff values ('Ali', '03227561002','Iqbal Town, Lhr', 'Guard', 'M', '05-04-1990', 'Matric',5000)
 
 
-
+ 
 
 
 
